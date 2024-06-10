@@ -16,6 +16,8 @@
 | IOT  | [TCC - A IMPORTÂNCIA DO IOT NAS UNIVERSIDADES PÚBLICAS DO BRASIL](https://drive.google.com/file/d/11NZd7e0KB0SjfEnLEDpeBa8KHZuvzr_E/view?usp=drive_link)|
 | Marketing  | [TCC ESTUDAR ESTRATÉGIAS DE MARKETING MUSICAL PARA ENTENDER O ENGAJAMENTO DE PÚBLICO E IMPULSIONAR A POPULARIDADE DE ARTISTAS DA MÚSICA MODERNA](https://drive.google.com/file/d/1CHjDgAjMuxrMu9f_dHNLbY0wETFfasxA/view?usp=drive_link)|
 | Políticas Públicas  | [TCC - ESTUDO DE MECANISMO DE POLÍTICAS ADMINISTRATIVAS NO DESENVOLVIMENTO E ESTÍMULO A PROJETOS CULTURAIS ARTÍSTICOS.](https://drive.google.com/file/d/1O7dRXKCvKa3BowKCxDbje8H8cgnfNTfZ/view?usp=drive_link)
+| IA GENERATIVA | [Uso de Inteligência Artificial Generativa e Subcampos da Inteligência Artificial](https://web.dio.me/articles/uso-de-inteligencia-artificial-generativa-e-subcampos-da-inteligencia-artificial?back=%2Farticles&page=1&order=oldest) 
+| Git e GitHub | [Git e GitHub: Uma Revolução na Gestão de Controle de Versão e Colaboração em Projetos de Software](https://web.dio.me/articles/git-e-github-uma-revolucao-na-gestao-de-controle-de-versao-e-colaboracao-em-projetos-de-software?back=%2Farticles&page=1&order=oldest)
 
 </br>
 
